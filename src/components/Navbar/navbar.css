@@ -1,0 +1,22 @@
+.logo {
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.navbar {
+    width: 100%;
+}
+.tabs {
+    display: inline;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+li {
+    color: white;
+    display: inline;
+    margin: 10px;
+}
