@@ -2,7 +2,8 @@
 
 // Step 1: always import react to uses react tools
 import React from 'react';
-import Foto from '../Me.JPG';
+import Foto from '../../Me.JPG';
+import Panel from '../Panel'
 
 /* When creating a component consider using
 either a const/ var/ let variable decleration.
@@ -40,6 +41,7 @@ const Aboutme = () => (
                          </p>
                     </article>
                 </div>
+                <Panel />
             </div>
         </div>
     </div>
