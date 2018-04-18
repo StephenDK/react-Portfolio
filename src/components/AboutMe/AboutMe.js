@@ -2,6 +2,7 @@
 
 // Step 1: always import react to uses react tools
 import React from 'react';
+import './aboutme.css';
 import Foto from '../../Me.JPG';
 import Panel from '../Panel'
 

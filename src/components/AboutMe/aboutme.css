@@ -1,0 +1,20 @@
+article {
+    margin-top: 15px;
+    border: 1px solid grey;
+}
+.picture {
+    /* border-style: groove; */
+    border-radius: 8px;
+    box-shadow: 5px 5px grey;
+    margin-left: 15px;
+    
+}
+h2 {
+    font-family: Arial;
+    
+    margin-left: 5px;
+}
+p {
+    margin-left: 5px;
+    margin-top: 5px;
+}

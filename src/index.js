@@ -15,7 +15,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 // Step 3: imprt components from app.js
-import App from './App';
+import App from './components/App';
 
 // Step 4: Render to index.html
 // **Syntax**     **What to render  **Where to render

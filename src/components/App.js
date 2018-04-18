@@ -8,9 +8,9 @@ import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 // Import components
-import AboutMe from './components/AboutMe/AboutMe';
-import Navbar from './components/Navbar';
-import Panel from './components/Panel';
+import AboutMe from './AboutMe';
+import Navbar from './Navbar'
+import Panel from './Panel';
 
 
 
