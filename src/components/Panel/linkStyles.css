@@ -1,7 +1,16 @@
 .connect-with-me-area {
     /* display: inline-block; */
     /* float: right; */
-    border: 2px solid black;
-    margin-left: 20px;
+    border: 1px solid black;
+    height: 200px;
+    margin-left:15px;
+    margin-top: 15px;
     padding: 15px;
+}
+a {
+    margin: 5px;
+}
+.social-media-link {
+    height: 75px;
+    width: 75px;
 }

@@ -1,0 +1,19 @@
+.form-container {
+    margin: auto;
+    margin-top: 25px;
+    width: 400px;
+}
+input {
+    
+    width: 300px;
+}
+textarea {
+    height: 100px;
+    width: 300px;
+}
+.form-group {
+    margin-left: 40px;
+}
+p {
+    text-align: center;
+}
